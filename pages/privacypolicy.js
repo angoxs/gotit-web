@@ -233,7 +233,7 @@ const privacypolicy = () => (
       }
 
       main {
-        padding: 5rem 0;
+        padding: 5rem 5rem;
         max-width: 800px;
         flex: 1;
         display: flex;
